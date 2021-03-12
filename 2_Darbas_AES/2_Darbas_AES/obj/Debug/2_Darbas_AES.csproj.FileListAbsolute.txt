@@ -1,0 +1,10 @@
+C:\Users\Hunter\Desktop\IS\2_Darbas_AES\2_Darbas_AES\obj\Debug\2_Darbas_AES.csprojAssemblyReference.cache
+C:\Users\Hunter\Desktop\IS\2_Darbas_AES\2_Darbas_AES\obj\Debug\_2_Darbas_AES.Form1.resources
+C:\Users\Hunter\Desktop\IS\2_Darbas_AES\2_Darbas_AES\obj\Debug\_2_Darbas_AES.Properties.Resources.resources
+C:\Users\Hunter\Desktop\IS\2_Darbas_AES\2_Darbas_AES\obj\Debug\2_Darbas_AES.csproj.GenerateResource.cache
+C:\Users\Hunter\Desktop\IS\2_Darbas_AES\2_Darbas_AES\obj\Debug\2_Darbas_AES.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\Desktop\IS\2_Darbas_AES\2_Darbas_AES\bin\Debug\2_Darbas_AES.exe.config
+C:\Users\Hunter\Desktop\IS\2_Darbas_AES\2_Darbas_AES\bin\Debug\2_Darbas_AES.exe
+C:\Users\Hunter\Desktop\IS\2_Darbas_AES\2_Darbas_AES\bin\Debug\2_Darbas_AES.pdb
+C:\Users\Hunter\Desktop\IS\2_Darbas_AES\2_Darbas_AES\obj\Debug\2_Darbas_AES.exe
+C:\Users\Hunter\Desktop\IS\2_Darbas_AES\2_Darbas_AES\obj\Debug\2_Darbas_AES.pdb
